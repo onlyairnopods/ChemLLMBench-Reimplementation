@@ -1,0 +1,5 @@
+eval/__pycache__/
+eval/pkg_mol2cap_cap2mol/__pycache__/
+eval/pkg_name_prediction/__pycache__/
+eval/pkg_property_prediction/__pycache__/
+eval/pkg_reaction_level_prediction/__pycache__/
